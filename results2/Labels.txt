@@ -1,0 +1,5 @@
+0: Ballet Flat
+1: Boat
+2: Brogue
+3: Clog
+4: Sneaker
