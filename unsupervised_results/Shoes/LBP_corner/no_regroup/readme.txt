@@ -1,0 +1,2 @@
+accuracy_simple = 0.3530864197530864
+accuracy_weight = 0.3465020576131687
