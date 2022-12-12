@@ -1,2 +1,0 @@
-accuracy_simple = 0.20066666666666666
-accuracy_weight = 0.19333333333333333

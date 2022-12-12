@@ -1,2 +1,2 @@
-accuracy_simple = 0.351440329218107
-accuracy_weight = 0.345679012345679
+accuracy_simple = 0.2824742268041237
+silhouette_avg = 0.3521564206937509
